@@ -7,4 +7,4 @@
 * Make the grid responsive and on mobile screens (< 768px) make sure the sidenav disappears completely.
 * When you move with your mouse over the "learn more" button, show a tooltip with some extra text. You can use the bootstrap tooltips for this.
 * Publish your result
-##URL to the page:
+## URL to the page: https://nikkizol.github.io/Grid-away-grid-ahoy/
