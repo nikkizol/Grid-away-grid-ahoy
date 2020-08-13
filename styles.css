@@ -22,14 +22,7 @@
     opacity:0;
 }
 .nav {
-    position: fixed;
-    padding-top: 120px;
-    width: 120px;
-    height: 100%;
-    background: white;
-    color: black;
-}
-.card {
-    max-height: 360px;
+    margin-top: 10%;
+
 }
 
