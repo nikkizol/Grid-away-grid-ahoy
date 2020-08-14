@@ -1,10 +1,4 @@
-# Grid-away-grid-ahoy
-## The Mission:
-* Recreate the layout below (use whatever text and images you want), just respect the layout
-* Try to get as close as possible without writing CSS
-* Add a navigation sidebar to the left, with some dummy links in them
-* Style the navigation bar using only the framework you selected
-* Make the grid responsive and on mobile screens (< 768px) make sure the sidenav disappears completely.
-* When you move with your mouse over the "learn more" button, show a tooltip with some extra text. You can use the bootstrap tooltips for this.
-* Publish your result
-## URL to the page: https://nikkizol.github.io/Grid-away-grid-ahoy/
+<a href="/design-components/00.EmergencyForm/index.html">Emergency Form</a> </br>
+<a href="/design-components/01.Footer/index.html">Footer</a></br>
+<a href="/design-components/02.pagination/index.html">Pagination</a></br>
+<a href="/design-components/03.zone-benefits-grid/index.html">Zone benefits grid</a></br>
